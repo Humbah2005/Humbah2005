@@ -52,7 +52,7 @@ cmd({
 
     const { desc, thumb, video_sd, video_hd } = data.result;
 
-    const caption = `╭════ 〔 *Your Botname* 〕════❐\n`
+    const caption = `╭════ 〔 *humbah-md* 〕════❐\n`
       + `┃▸ *Description:* ${desc || "No description"}\n`
       + `╰═════════════════❐\n\n`
       + `📹 *Download Options:*\n`
