@@ -43,7 +43,7 @@ let desc = `
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
 
-> *© Powered by your botname* 
+> *© Powered by humbah-md* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -95,7 +95,7 @@ let desc = `
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
 
-> *© powered by your botname*
+> *© powered by humbah-md*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
