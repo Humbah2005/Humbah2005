@@ -13,16 +13,16 @@ cmd({
 async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
-        const ownerNumber = '+263xxxxxx'; // Replace this with the actual owner number
-        const ownerName = '𓆩ု᪳𝐀𝐋𝐈 𝐈𝐍𝅦𝐒i͜͡𝐃𝐄ှ᪳𓆪'; // Replace this with the owner's name
-        const organization = 'Malvin Team'; // Optional: replace with the owner's organization
+        const ownerNumber = '+263789677639'; // Replace this with the actual owner number
+        const ownerName = '𓆩mtee𓆪'; // Replace this with the owner's name
+        const organization = 'bleurainz'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
                       `FN:${ownerName}\n` +  // Full Name
                       `ORG:${organization};\n` +  // Organization (Optional)
-                      `TEL;type=CELL;type=VOICE;waid=${ownerNumber.replace('+', '')}:${ownerNumber}\n` +  // WhatsApp ID and number
+                      `TEL;type=CELL;type=VOICE;waid=${ownerNumber.replace('+', '')}:${+263789677639}\n` +  // WhatsApp ID and number
                       'END:VCARD';
 
         // Send the vCard first
