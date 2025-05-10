@@ -37,7 +37,7 @@ async (conn, mek, m, { from, args, q, reply }) => {
         const videoUrl = meta.media.find(v => v.type === "video").org;
         
          
-         const caption =`*❒config.BOT_NAME  VⵊDEO DOWNLOADER ❒*\n\n` +
+         const caption =`*❒ $(config.BOT_NAME ) VⵊDEO DOWNLOADER ❒*\n\n` +
                         `👤 *User:* ${author.nickname}\n` +
                         `♥️ *Likes:* ${like}\n💬 *Comments:* ${comment}\n♻️ *Shares:* ${share}`;
         
