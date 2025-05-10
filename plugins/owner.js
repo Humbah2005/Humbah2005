@@ -26,9 +26,9 @@ let dec = `*👋 Hello ${pushname}*
 *⚡Owner name -: humbah*
 *⚡Number* -: 263789677639
 
- ⚡️◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3
+ ⚡️◦ https://whatsapp.com/channel/0029Vb6EJfCHLHQQGd2KGL1P
 
-> *Powered by your name*
+> *Powered by bleurainz*
 `;
 await conn.sendMessage(from,{image:{url:config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -51,14 +51,14 @@ try{
 
 let dec = `*📍ℝ𝔼ℙ𝕆-𝕃𝕀ℕ𝕂 ❤️‍🔥👇*
 
-👨‍💻◦https://github.com/your github username/Botname
+👨‍💻◦https://github.com/humbah2005/humbah-md
 
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
-👨‍💻◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+https://whatsapp.com/channel/0029Vb6EJfCHLHQQGd2KGL1P
 
-> *Powered by yourname*
+> *Powered by humbah*
 `;
 await conn.sendMessage(from,{image:{url: config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -84,7 +84,7 @@ let status = `┌─────────────────────
 ├ 🧬 *Version:-* 1.0.0
 └───────────────────────
 
-> *𝘗𝘖𝘞𝘌𝘙𝘌𝘋 𝘣𝘺 Your Botname*
+> *𝘗𝘖𝘞𝘌𝘙𝘌𝘋 𝘣𝘺 Your humbah*
 `;
 return reply(`${status}`)
   
