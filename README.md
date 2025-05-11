@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/humbah2005/humbah-md/fork"><img title="humbah-md" src="https://img.shields.io/badge/FORK-Humbah2005h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/humbah2005/humbah-md/fork"><img title="humbah-md" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://files.catbox.moe/wdn1oa.jpg'/>
 
@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
+  <a href="https://humbah-pair-code-xzcb.onrender.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
