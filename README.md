@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/humbah2005/humbah-md/fork"><img title="humbah-md" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/humbah2005/humbah-md/fork"><img title="humbah-md" src="https://img.shields.io/badge/FORK-humbah2005-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://files.catbox.moe/wdn1oa.jpg'/>
 
