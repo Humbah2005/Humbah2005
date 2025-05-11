@@ -25,7 +25,7 @@
 > To deploy, generate your session ID from the link below:
 Session ID**  
   <p align="left">
-    <a href="https://new-session-m3jx.onrender.com/pair" target="_blank"><img src="https://img.shields.io/badge/Session%20ID-000000?style=for-the-badge&logo=react&logoColor=white" alt="Get Pairing Code (Session ID"/>
+    <a href="https://humbah-session.onrender.com/pair" target="_blank"><img src="https://img.shields.io/badge/Session%20ID-000000?style=for-the-badge&logo=react&logoColor=white" alt="Get Pairing Code (Session ID"/>
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
