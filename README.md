@@ -16,17 +16,21 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/humbah2005/humbah-md/fork"><img title="humbah-md" src="https://img.shields.io/badge/FORK-humbah2005-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/humbah2005/humbah-md/fork"><img title="humbah-md" src="https://img.shields.io/badge/FORK-humbah2005-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://files.catbox.moe/wdn1oa.jpg'/>
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
-> To deploy, generate your session ID from the link below:
-Session ID**  
+> To deploy, generate your session ID from the links below:
+Session ID 1**  
   <p align="left">
     <a href="https://humbah-session.onrender.com/pair" target="_blank"><img src="https://img.shields.io/badge/Session%20ID-000000?style=for-the-badge&logo=react&logoColor=white" alt="Get Pairing Code (Session ID"/>
-  </a>
+
+Session ID 2**  
+  <p align="left">
+    <a href="https://davidcyril-session-id-generator-7jgb.onrender.com/pair" target="_blank"><img src="https://img.shields.io/badge/Session%20ID-000000?style=for-the-badge&logo=react&logoColor=white" alt="Get Pairing Code (Session ID"/>
+    </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
