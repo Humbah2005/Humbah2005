@@ -101,9 +101,4 @@ jobs:
 > DEVELOPER OF humbah-md
 - [ mtee ](https://github.com/humbah2005)
 - Creater and Owner Of humbah-md
-
-> humbah-md Helper
-- [mtee](https://github.com/humbah20005)
-- For helping in bot plugin files.
----
 <a><img src='https://files.catbox.moe/wdn1oa.jpg'/>
